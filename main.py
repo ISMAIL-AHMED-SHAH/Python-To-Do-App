@@ -20,7 +20,7 @@ def save_tasks(tasks):
 
 # --- App Config ---
 st.set_page_config(page_title="📝 To-Do App", layout="centered")
-st.image("todo.webp")
+st.image("p-todo.jpg")
 st.sidebar.image("https://img.icons8.com/ios-filled/50/000000/todo-list.png", width=90)
 
 # --- App Title ---
@@ -90,3 +90,8 @@ st.sidebar.write("💬 [WhatsApp](https://wa.me/923322241405)")
 
 st.sidebar.markdown("---")
 st.sidebar.markdown("<p style='text-align: center; color: grey;'>Build with ❤️ By Ismail Ahmed Shah</p>", unsafe_allow_html=True)
+
+st.sidebar.markdown("---")
+
+st.markdown("---")
+st.image("todo.webp")
