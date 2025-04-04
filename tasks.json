@@ -1,0 +1,22 @@
+[
+    {
+        "task": "cricket",
+        "completed": false
+    },
+    {
+        "task": "football",
+        "completed": false
+    },
+    {
+        "task": "flutter",
+        "completed": false
+    },
+    {
+        "task": "bonus",
+        "completed": true
+    },
+    {
+        "task": "market",
+        "completed": false
+    }
+]
